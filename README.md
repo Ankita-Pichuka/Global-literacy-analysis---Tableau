@@ -1,5 +1,4 @@
-# Global-literacy-analysis---Tableau
-https://public.tableau.com/shared/NS8HQ2KR7?:display_count=n&amp;:origin=viz_share_link
+
 # 🌍 Global Literacy Trends (Tableau Visualization)
 
 This Tableau dashboard presents a comprehensive view of global literacy rates from 1990 to 2023. 
