@@ -7,6 +7,11 @@ This Tableau dashboard presents a comprehensive view of global literacy rates fr
 ## 🔗 View Dashboard
 👉 [Click here to view the full interactive Tableau dashboard](https://public.tableau.com/shared/NS8HQ2KR7?:display_count=n&:origin=viz_share_link)
 
+### 📊 Dashboard Preview
+
+![Dashboard Preview](Screenshot%202025-06-02%20142913.png)
+
+
 ## 📊 Features
 - World map shaded by literacy rate
 - Time-series line chart showing trends
