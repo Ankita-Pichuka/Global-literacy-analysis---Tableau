@@ -29,14 +29,14 @@ Lower literacy levels persist in parts of Sub-Saharan Africa and South Asia, sug
 Time series visualizations reveal that global literacy rates have been improving year over year, with significant leaps in countries like India, Bangladesh, and Nigeria.
 
 ## 🔟 Top vs Bottom Performers:
-Top 10 countries include Finland, Japan, and Germany, with near-universal literacy.
-Bottom 10 countries struggle with literacy rates below 60%, signaling the need for focused policy intervention.
+- Top 10 countries include Finland, Japan, and Germany, with near-universal literacy.
+- Bottom 10 countries struggle with literacy rates below 60%, signaling the need for focused policy intervention.
 
 ## 📊 Visual Insights from Dashboard:
 
-The map displays global literacy distribution.
-The time series chart illustrates overall upward trends.
-The bar charts rank countries by performance, highlighting disparities.
+- The map displays global literacy distribution.
+- The time series chart illustrates overall upward trends.
+- The bar charts rank countries by performance, highlighting disparities.
 
 ## 🎯 Implications:
 The dashboard provides a comprehensive, interactive view of literacy across the globe. It underscores the need for global cooperation in reducing education inequality and empowering populations through knowledge.
