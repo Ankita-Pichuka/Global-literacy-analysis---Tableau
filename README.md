@@ -47,4 +47,7 @@ Source: World Bank Global Literacy Rates dataset (cleaned)
 
 ---
 
-Created by **Ankita Pichuka**
+🙋‍♀️ Author
+Ankita Pichuka
+Graduate Student – Analytics, Northeastern University
+LinkedIn
